@@ -62,5 +62,5 @@ if __name__ == '__main__':
     except:
         pass
 
-     con.close()
-     app.run(port = 5006)
+    con.close()
+    app.run(port = 5006)
